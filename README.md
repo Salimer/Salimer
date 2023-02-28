@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my Github profile!
 - 🔭 I’m currently getting prepared to start on Microverse 🔥
 
 <!--
