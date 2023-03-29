@@ -1,5 +1,5 @@
 ### Hi there 👋 Welcome to my Github profile!
-- 🔭 I’m currently getting prepared to start on Microverse 🔥
+- 🔭 I’m currently progressing on Microverse bootcamp 🔥
 
 <!--
 **Salimer/Salimer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
