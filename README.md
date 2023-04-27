@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Salimer"</img> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MoyasiGinko&label=Views&color=blue&style=plastic" alt="Salimer" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Salimer&label=Views&color=blue&style=plastic" alt="Salimer" /></p>
 <!-- Software Developer
 --------------------- -->
 
