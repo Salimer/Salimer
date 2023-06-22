@@ -43,8 +43,8 @@ I have changed my career because of the covid quarantine :mask:, that was hard, 
 
 - 🔭  I am currently studying **Software Development** at <img src="https://avatars.githubusercontent.com/u/22550229?s=200&v=4" width="14" height="14"> Microverse. 😄 
 - 🌱  I am learning the best practices towards working as a remote software developer at ![](https://img.shields.io/badge/-Microverse-blueviolet)
-- 🌍  I am currently based in Dhaka, Bangladesh, but I am eager to work in other parts of the world. 😉
-- 🧠  I am a Python lover 😄 and I love solving programming problems.
+- 🌍  I am currently based in Nicosia, North Cyprus, but I am eager to work in other parts of the world. 😉
+- 🌟 💻 I am a JavaScript magician ✨ and I thrive on unraveling intricate coding conundrums!" 🚀 Whether it's diving deep into React's enchanting components or scripting spellbinding solutions with JavaScript, I find sheer joy in the art of programming sorcery. 🎩✨
 - 🤝  I am looking to collaborate with people around the world on different projects.
 - ✉️  You can reach me at [s.bamahfoodh@gmail.com](mailto:s.bamahfoodh@gmail.com)
 
